@@ -11,11 +11,7 @@
 </h4>
  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nestjs,nodejs,react,nextjs,ts,php,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nestjs,nodejs,react,nextjs,ts,php,vscode&theme=dark" />
 </p>
- 
-<h4>GitHub Stats</h4>
- 
-[![Top Langs](https://github-readme-stats-omega-ten-62.vercel.app/api/top-langs/?username=ismael-paulino&show_icons=true&theme=default&hide=java,html&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
  
 ## God bless you! :pray:
